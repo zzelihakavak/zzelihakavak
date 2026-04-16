@@ -1,12 +1,6 @@
 #  Zeliha Kavak
 Full Stack Engineer Intern
 
----
-
-![Banner](./banner.png)
-
----
-
 ### 🚀 Hakkımda
 - 🎓 **Karabük Üniversitesi** Bilgisayar Mühendisliği son sınıf öğrencisiyim.
 - 💻 **Yazılım Geliştirme**, **Siber Güvenlik** ve **IoT Sistemleri** ile ilgileniyorum.

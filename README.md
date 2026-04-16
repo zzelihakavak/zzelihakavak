@@ -1,6 +1,5 @@
-# Hi there, I'm Zeliha Kavak! 👋
-
-Computer Engineering Student | Aspiring Software Engineer
+#  Zeliha Kavak
+Full Stack Engineer Intern
 
 ---
 

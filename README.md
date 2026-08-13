@@ -4,7 +4,6 @@ Full Stack Engineer Intern
 ### 🚀 Hakkımda
 - 🎓 **Karabük Üniversitesi** Bilgisayar Mühendisliği son sınıf öğrencisiyim.
 - 💻 **Yazılım Geliştirme**, **Siber Güvenlik** ve **IoT Sistemleri** ile ilgileniyorum.
-- 🔐 **Kuantum Sonrası Kriptografi (PQC)** ve **Anomali Tespiti** konularında çalışmalar yapıyorum.
 - ⚡ Sürekli öğrenmeye ve güvenli, ölçeklenebilir uygulamalar geliştirmeye odaklıyım.
 
 ---

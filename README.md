@@ -2,7 +2,7 @@
 Full Stack Engineer Intern
 
 ### 🚀 Hakkımda
-- 🎓 **Karabük Üniversitesi** Bilgisayar Mühendisliği son sınıf öğrencisiyim.
+- 🎓 **Karabük Üniversitesi** Bilgisayar Mühendisliği mezunuyum.
 - 💻 **Yazılım Geliştirme**, **Siber Güvenlik** ve **IoT Sistemleri** ile ilgileniyorum.
 - ⚡ Sürekli öğrenmeye ve güvenli, ölçeklenebilir uygulamalar geliştirmeye odaklıyım.
 

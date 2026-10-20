@@ -1,5 +1,5 @@
 #  Zeliha Kavak
-Full Stack Engineer Intern
+Computer Engineer | Master of Science Mathematics
 
 ### 🚀 Hakkımda
 - 🎓 **Karabük Üniversitesi** Bilgisayar Mühendisliği mezunuyum.
